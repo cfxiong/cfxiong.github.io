@@ -3,7 +3,7 @@ title: "Mobile device data reveal the dynamics in a positive relationship betwee
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'U.S. county level human mobility were measured from individual level passively collected data and linked to a panel data model for modeling and predicting SARS-CoV-2 pandemic in the U.S.'
-date: 2020
+date: 2020-11-30
 venue: 'Proceedings of National Academy of Sciences (PNAS)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Xiong, et. al., (2020). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
