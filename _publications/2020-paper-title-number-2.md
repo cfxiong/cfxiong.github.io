@@ -1,0 +1,14 @@
+---
+title: "An integrated and personalized traveler information and incentive scheme for energy efficient mobility systems"
+collection: publications
+permalink: /publication/2020-paper-title-number-2
+excerpt: 'This paper studied an integrated incentivization mechanism that realisticly models subjects` behavioral response to different types of incentives and optimizes the incentive allocation with a control optimizer.'
+date: 2020-10-01
+venue: 'Transportation Research Part C: Emerging Technologies'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0968090X18317364'
+citation: 'Xiong et al., (2010). &quot;An integrated and personalized traveler information and incentive scheme for energy efficient mobility systems.&quot; <i>Transportation Research Part C: Emerging Technologies</i>. 113, 57-73.'
+---
+This paper studied an integrated incentivization mechanism that realisticly models subjects' behavioral response to different types of incentives and optimizes the incentive allocation with a control optimizer.
+
+[Download paper here](https://pdf.sciencedirectassets.com/271729/1-s2.0-S0968090X20X00039/1-s2.0-S0968090X18317364/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIGRVu4UsiYU%2Fv0i7kZnnG9ijx1jM%2BS%2BmV%2B%2FRzWhUoG59AiBlVV0ycE8lojqqIBKOHwwXrcdOdIJavkXsaEbaPaT3rirMBAhwEAUaDDA1OTAwMzU0Njg2NSIMeb0y4Q1a%2FpUzqr1pKqkEbpS4fDWnFW4j%2BO3qbQFW8cY6BwO2oiBD2LR22xrqxPln9a7G1tCvb3Wr4lLhsXugMjdSczimb%2BQhSyrv2502lweXq4EIMdo2zEBxa0uj8BkrYZWRoagVUr9n%2F1pp%2FDYjZ4AKvjFiCfqJDiYrRUK7wNlYVFUVifqXwWnYK%2FObBSErVBmS6IDdxBPzVT1fcCmEapyDGWrvgsZr7NGX3QmCyo6FCxTsXAqgT1HHRZ6WIqcrO%2B03ROM5U70kJjDLD9V%2FJq65CGJeXJbHkp5aXpUVhur8QGjNC9IiRLe1FWp65PrXufWn3jVt5JyX%2B7r7G4hlUnoVG%2FJFK8Q2hjRrWS3freoZH1I9u%2B5halv8ZIlXVyp8FeCsB5pPHle7YqN1W7BkvfyhTEYW9WTCnm38SCo9m2R3jNCMHsbRpu2ahf5wT0yy3KF8%2F4bY%2FXIjfgZaUJy8wQcQ%2FDeA4gkQmIUJQOCvjlWFjRFplEITyPJSp2rFlqfaARM3X%2FU6wOfHs4grS49O4s4IQoo9tsQVBcTN0eCwwePi404ByoEpaYCSKbCUtSQW9jVVdiymEWmgbexQwRpvHl%2FGarii7k7VelQoUaUULt5z8H1DmIL7l6tuUyv3djkCqyvwSMvzlnfPp7bXhjo2AwL%2FpZ%2F%2B715nr68zUEuQPwky976ZYa0eRnC3rUCGyYItQ6TL1L8IuLPpwKeC5sBfOfNNXDRHUMAWHyyXx8kT8G2lPu%2BLjkbMUzCA6%2F2aBjqqAZ1uve5DHbfGBeOkNOZ4W3iWL4YKlH9SL6GlUddWk6%2Ftsqj26HElqm5qKMdh745qDPUGP2oRlh7p5zfnQC1c9zc9UAv39BMZ26QFR3csxO0VQIYAEQZGSDAg8Cu1cyhqLMEMIFnk%2B%2BHwxEJQx5%2BNwdbW3O7IEvtppPYOWPqGCSWhULMtRMgraAVGnAcacGvx8xVOhtP4JGxl3T12KFqjYE3TRg5iFf60zTzV&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221031T082917Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7QWO5X7W%2F20221031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6d260ce9c5a422b8e37bdfae0e3a2c9422975ee36c803410afe7f4880844abaf&hash=a1e25ee78e4d6871adc131bca006c32a1855a55253875343746cf9ed4746af16&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0968090X18317364&tid=pdf-8c9484fb-0e5f-452a-81c4-e96696080832&sid=450ee9f13502c44eac3a67c241db08a62aa7gxrqb&type=client)
+
