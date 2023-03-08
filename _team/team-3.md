@@ -1,6 +1,6 @@
 ---
 title: "Ph.D. Student: Kailun (Kevin) Liu"
-excerpt: "Kevin earned his B.S. in Mathematics from Liberty University and then pursued an M.S. degree in Business Analytics from Fordham Univeristy. He is currently enrolled as a Ph.D. student. Expected graduation: 2027. 
+excerpt: "Kevin earned his B.S. in Mathematics from Liberty University (Class of 2018) and then pursued an M.S. degree in Business Analytics from Fordham Univeristy (Class of 2020). He is currently enrolled as a Ph.D. student starting in Spring 2023. Expected graduation: TBD. 
 
 <br/><img src='/images/portrait-liu.jpg' 
 width='300'/>"
