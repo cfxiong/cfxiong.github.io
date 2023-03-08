@@ -1,6 +1,6 @@
 ---
 title: "Weiyu Luo"
-excerpt: "Ph.D. Candidate working on transportation big data and data-driven methods <br/><img src='/images/portrait-luo.jpg', width='300'>"
+excerpt: "Ph.D. Candidate working on transportation big data and data-driven methods <br/><img src='/images/portrait-luo.jpg', width: 400px>"
 collection: team
 ---
 
