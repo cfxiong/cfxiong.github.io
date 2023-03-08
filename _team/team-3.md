@@ -1,6 +1,6 @@
 ---
 title: "Kailun (Kevin) Liu"
-excerpt: "Ph.D. student (Expected graduation 2027) 1<br/><img src='/images/portrait-liu.jpg'>"
+excerpt: "Ph.D. student (Expected graduation 2027). <br/><img src='/images/portrait-liu.jpg', width='300'>"
 collection: team
 ---
 

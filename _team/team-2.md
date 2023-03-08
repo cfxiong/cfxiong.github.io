@@ -1,6 +1,6 @@
 ---
 title: "Luke Molnar"
-excerpt: "M.S. student (Expected graduation 2024) 1<br/><img src='/images/portrait-molnar.jpg'>"
+excerpt: "M.S. student (Expected graduation 2024). <br/><img src='/images/portrait-molnar.jpg', width='300'>"
 collection: team
 ---
 
