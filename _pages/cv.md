@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Civil Engineering, Tsinghua University, 2009
-* M.S. in Civil Engineering, University of Maryland, 2011
-* M.A. in Economics, University of Maryland, 2013
-* Ph.D in Transportation Engineering, University of Maryland, 2015
+* B.S. in Civil Engineering, Tsinghua University - China, 2009
+* M.S. in Civil Engineering, University of Maryland - College Park, 2011
+* M.A. in Economics, University of Maryland - College Park, 2013
+* Ph.D. in Transportation Engineering, University of Maryland - College Park, 2015
 
 Work experience
 ======
@@ -21,13 +21,16 @@ Work experience
   * Villanova University
   * College of Engineering (CoE)
   * Department of Civil and Environmental Engineering (CEE)
+  * Affiliated Faculty of Center for Human-Environmental Systems (CHES) at Villanova University
 
 * 2017-2022: Assistant/Associate Research Professor
-  * University of Maryland
-  * Maryland Transportation Institute (MTI)
+  * University of Maryland - College Park
+  * Jointly appointed at University of Maryland - Baltimore
+  * Affiliated, Maryland Transportation Institute (MTI)
+  * Affiliated, Shock Trauma Anesthesiology Research (STAR) Center
 
 * 2015-2017: Postdoctoral Research Associate
-  * University of Maryland
+  * University of Maryland - College Park
   * National Transportation Center (NTC)
 
 
