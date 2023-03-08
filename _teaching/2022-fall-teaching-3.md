@@ -8,16 +8,16 @@ date: 2022-08-22
 location: "Villanova, PA"
 ---
 
-I am teaching undergraduate-required course: CEE 2211 Transportation Engineering starting from Fall 2022 (for Sophomores). Teaching evaluation pending.
+I am teaching a series of undergraduate and graduate level courses in Transportation Engineering under CEE. Topics inlcude introduction to transportation, transportation planning and policy, system design, traffic simulation, transportation data analysis, statistical modeling, and so forth.
+
 
 Undergraduate
 ======
 
 
-CEE 2211: Transportation Engineering
-============
+CEE 2211: Introduction to Transportation Engineering
 CEE 4226: Transportation System Design
-============
+
 
 
 
