@@ -1,7 +1,7 @@
 ---
-title: "Kailun (Kevin) Liu"
-excerpt: "Ph.D. student (Expected graduation 2027) 1<br/><img src='/images/portrait-liu.jpg'>"
-collection: portfolio
+title: "Luke Molnar"
+excerpt: "M.S. student (Expected graduation 2024) 1<br/><img src='/images/portrait-molnar.jpg'>"
+collection: team
 ---
 
-My name is Kailun (Kevin) Liu, and I was a data scientist intern at TransFlow Solutions. I am an introductory-level data scientist and enjoy applying machine learning models and big data methods to multiple social science and economics projects. I graduated from Fordham University in 2020 with a master's degree in Business Analytics and Liberty University in 2018 with a bachelor's degree in Mathematics.
+Luke Molnar graduated from the Henry M. Rowan College of Engineering in 2022 with a bachelor's degree in Civil and Environmental Engineering. While at Rowan University his research specialties included waste to energy biofuel production and pedestrian safety initiatives. Currently, Luke is completing a thesis track master's degree in civil and environmental engineering at Villanova University. Luke is working under Dr. Chenfeng Xiong to complete research developing data measures for people's mobility, modeling such mobility, and linking the mobility model with epidemiology measures. 
