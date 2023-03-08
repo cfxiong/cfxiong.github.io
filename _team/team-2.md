@@ -1,6 +1,6 @@
 ---
 title: "Luke Molnar"
-excerpt: "M.S. student (Expected graduation 2024). <br/><img src='/images/portrait-molnar.jpg', width: 300px>"
+excerpt: "Luke received his B.S. of Civil and Environmental Engineering from Rowan University. He is currently working on his M.S. thesis in modeling human mobility via an agent-based approach (Expected graduation: 2024). <br/><img src='/images/portrait-molnar.jpg' width='300px'>"
 collection: team
 ---
 
