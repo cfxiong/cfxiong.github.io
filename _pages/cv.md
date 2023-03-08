@@ -20,13 +20,14 @@ Work experience
 ======
 * 2022 to present: Assistant Professor
   * Villanova University
-  * Department of Civil and Environmental Engineering
+  * College of Engineering (CoE)
+  * Department of Civil and Environmental Engineering (CEE)
 
 * 2017-2022: Assistant/Associate Research Professor
   * University of Maryland
   * Maryland Transportation Institute (MTI)
 
-* 2015-2017: Research Scientist
+* 2015-2017: Postdoctoral Research Associate
   * University of Maryland
   * National Transportation Center (NTC)
 
@@ -49,4 +50,5 @@ Service and leadership
 * Academic Editor: PLOS One
 * Handling Editor: Transportation Research Record 
 * Affiliated Member of American Society of Civil Engineers (ASCE)
-* Serving on expert panels of NSF and FHWA
+* Associate Member of ASCE Artificial Intelligence in Transportation Committee
+* Served on expert panels of NSF and FHWA
