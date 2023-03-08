@@ -15,9 +15,8 @@ Undergraduate
 ======
 
 
-CEE 2211: Introduction to Transportation Engineering
-
-CEE 4226: Transportation System Design
+* CEE 2211: Introduction to Transportation Engineering
+* CEE 4226: Transportation System Design
 
 
 
@@ -25,6 +24,6 @@ CEE 4226: Transportation System Design
 
 Graduate
 ======
-CEE 8201: Urban Transportation Engineering
+* CEE 8201: Urban Transportation Engineering
 
 

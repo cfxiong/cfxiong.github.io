@@ -14,9 +14,9 @@ While working as a research faculty, I was also engaged in teaching. During the 
 Undergraduate
 ======
 
-ENCE 100: Introduction to Civil Engineering
+* ENCE 100: Introduction to Civil Engineering
 
 Graduate
 ======
 
-ENCE 673: Urban Transportation Planning
+* ENCE 673: Urban Transportation Planning
