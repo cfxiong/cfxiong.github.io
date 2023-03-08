@@ -8,6 +8,10 @@ date: 2015-04-22
 location: "College Park, MD"
 ---
 
+Contantly, I will bring new components into teaching, such as simulators, software packages, programming bootcamps, and so forth.
+
+
+
 Mesoscopic Simulations of Traffic and Travel Demand
 ======
 I was the instructor of this workshop on transportation simulations designed for state and local transportation agencies, consultants, other private-sector engineers, and graduate students.
