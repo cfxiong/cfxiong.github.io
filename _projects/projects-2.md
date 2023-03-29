@@ -1,10 +1,7 @@
 ---
-title: "M.S. Student: Luke Molnar"
-excerpt: "Luke received his B.S. of Civil and Environmental Engineering from Rowan University in 2022. His research specialties included waste to energy biofuel production and pedestrian safety initiatives. He is currently working on his M.S. thesis in modeling human mobility via an agent-based approach (Expected graduation: 2024). 
-
-<br/><img src='/images/portrait-molnar.jpg' 
-width='300'/>"
-collection: team
+title: "An Exploratory Research to Quantify SARS-CoV-2 Related Health Effects under Extreme Climate Events (National Institutes of Health) 2023-2024"
+excerpt: "This novel NIH Pillar-1 “Health Effects Research” investigates the influence of climate change and extreme weather events on SARS-CoV-2 related health outcomes. The study has the spatial and temporal focus on extreme weather events in Nigeria and South Africa, explicitly quantifying the direct health impacts from climate change on the weather-impacted areas, indirect impacts caused by induced human behavior changes and on different population groups, and the spillover influences on connected neighboring regions. The proposed study innovatively applies techniques from statistics, data sciences, computer science, and public health to deliver actionable results as well as data and new measurements to understand the health effects of extreme climate events on SARS-CoV-2 outcomes."
+collection: projects
 ---
 
-Luke Molnar graduated from the Henry M. Rowan College of Engineering in 2022 with a bachelor's degree in Civil and Environmental Engineering. While at Rowan University his research specialties included waste to energy biofuel production and pedestrian safety initiatives. Currently, Luke is completing a thesis track master's degree in civil and environmental engineering at Villanova University. Luke is working under Dr. Chenfeng Xiong to complete research developing data measures for people's mobility, modeling such mobility, and linking the mobility model with epidemiology measures. 
+This novel NIH Pillar-1 “Health Effects Research” investigates the influence of climate change and extreme weather events on SARS-CoV-2 related health outcomes. The study has the spatial and temporal focus on extreme weather events in Nigeria and South Africa, explicitly quantifying the direct health impacts from climate change on the weather-impacted areas, indirect impacts caused by induced human behavior changes and on different population groups, and the spillover influences on connected neighboring regions. The proposed study innovatively applies techniques from statistics, data sciences, computer science, and public health to deliver actionable results as well as data and new measurements to understand the health effects of extreme climate events on SARS-CoV-2 outcomes.
