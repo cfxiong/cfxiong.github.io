@@ -21,57 +21,47 @@ The Lab leverages in-house computing cluster of over 400 CPUs and cutting-edge b
 Example mobility data research products include:
 
 
-    <div class="container">
-      <div class="card">
-        <div class="img">
-          <img src="/images/baltimore.png" >
-          <!-- one -->
-        </div>
-        <div class="top-text">
-          <div class="name">
-            test1
-          </div>
-        </div>
-        <div class="bottom-text">
-          <div class="text">
-            test 1
-          </div>
-        </div>
-      </div>
-      <!-- two -->
-      <div class="card">
-        <div class="img">
-          <img src='/images/SouthAfrica.png'>
-        </div>
-        <div class="top-text">
-          <div class="name">
-            test 2
-          </div>
-          <!-- <p>Apps Developer</p> -->
-        </div>
-        <div class="bottom-text">
-          <div class="text">
-            Test 2
-          </div>
-        </div>
-      </div>
-      <!-- three -->
-      <div class="card">
-        <div class="img">
-          <img src="54545454.jpg" >
-        </div>
-        <div class="top-text">
-          <div class="name">
-            test 3
-          </div>
-        </div>
-        <div class="bottom-text">
-          <div class="text">
-            Test 3
-          </div>
-        </div>
-      </div>
+  <style>
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .textbox-container {
+      flex: 1;
+      margin: 10px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    input {
+      width: 100%;
+      padding: 5px;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+  <h1>Parallel Textboxes Example</h1>
+  <div class="container">
+    <div class="textbox-container">
+      <label for="textbox1">Example 1:</label>
+      <input type="text" id="textbox1" name="textbox1">
     </div>
+    <div class="textbox-container">
+      <label for="textbox2">Example 2:</label>
+      <input type="text" id="textbox2" name="textbox2">
+    </div>
+    <div class="textbox-container">
+      <label for="textbox3">Example 3:</label>
+      <input type="text" id="textbox3" name="textbox3">
+    </div>
+  </div>
+</body>
+</html>
 
 
 I. Vehicle, pedestrian and bicycle volume estimation based on passively collected mobile device location data, sponsored by USDOT Safety Data Initiative (SDI) in collaboration with Maryland DOT State Highway Administration. The Lab researchers have developed a prototype web-based tool and data-driven algorithms to estimate low-speed road user volumes in example Maryland roadway segments and intersections. Results have been tested and validated against available road counts and turning volumes. Image below illustrates the density plot of estimated pedestrian/bicycle volumes for roadway segments near Inner Harbor, Baltimore MD.
