@@ -3,7 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "Data Lab"
+    url: /data-lab/  
+
+  - title: "Research Projects"
     url: /projects/    
 
   - title: "Teaching"

@@ -187,8 +187,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
+  data-lab:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -247,10 +247,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _data-lab
   - scope:
       path: ""
-      type: talks
+      type: data-lab
     values:
       layout: talk
       author_profile: true
