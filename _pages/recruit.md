@@ -35,10 +35,10 @@ Our VSRI alumni have gone on to pursue exceptional academic paths at leading ins
 Our high school VSRI interns have been accepted into top-tier undergraduate programs including:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px;">
-  <img src="/assets/images/logos/stanford.png" alt="Stanford" style="height: 50px;">
-  <img src="/assets/images/logos/ucb.png" alt="UC Berkeley" style="height: 50px;">
-  <img src="/assets/images/logos/emory.png" alt="Emory" style="height: 50px;">
-  <img src="/assets/images/logos/cmu_ug.png" alt="Carnegie Mellon" style="height: 50px;">
+  <img src="/images/logos/stanford.png" alt="Stanford" style="height: 50px;">
+  <img src="/images/logos/ucb.png" alt="UC Berkeley" style="height: 50px;">
+  <img src="/images/logos/emory.png" alt="Emory" style="height: 50px;">
+  <img src="/images/logos/cmu_ug.png" alt="Carnegie Mellon" style="height: 50px;">
 </div>
 
 ### 🎓 Graduate School Placements (from undergraduate interns)
@@ -46,10 +46,10 @@ Our high school VSRI interns have been accepted into top-tier undergraduate prog
 VSRI undergraduate interns have continued their academic careers in top graduate programs, including:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px;">
-  <img src="/assets/images/logos/harvard.png" alt="Harvard School of Public Health" style="height: 50px;">
-  <img src="/assets/images/logos/asu.png" alt="Arizona State University" style="height: 50px;">
-  <img src="/assets/images/logos/cmu.png" alt="Carnegie Mellon University" style="height: 50px;">
-  <img src="/assets/images/logos/jhu.png" alt="Johns Hopkins University" style="height: 50px;">
+  <img src="/images/logos/harvard.png" alt="Harvard School of Public Health" style="height: 50px;">
+  <img src="/images/logos/asu.png" alt="Arizona State University" style="height: 50px;">
+  <img src="/images/logos/cmu.png" alt="Carnegie Mellon University" style="height: 50px;">
+  <img src="/images/logos/jhu.png" alt="Johns Hopkins University" style="height: 50px;">
 </div>
 
 ---
