@@ -38,7 +38,7 @@ Our high school VSRI interns have been accepted into top-tier undergraduate prog
   <img src="/assets/images/logos/stanford.png" alt="Stanford" style="height: 50px;">
   <img src="/assets/images/logos/ucb.png" alt="UC Berkeley" style="height: 50px;">
   <img src="/assets/images/logos/emory.png" alt="Emory" style="height: 50px;">
-  <img src="/assets/images/logos/cmu.png" alt="Carnegie Mellon" style="height: 50px;">
+  <img src="/assets/images/logos/cmu_ug.png" alt="Carnegie Mellon" style="height: 50px;">
 </div>
 
 ### 🎓 Graduate School Placements (from undergraduate interns)
