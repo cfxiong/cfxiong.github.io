@@ -10,7 +10,7 @@ redirect_from:
 
 # Villanova Summer Research Internship (VSRI)
 
-The **Villanova Summer Research Internship (VSRI)** Program is now accepting applications for its **fourth consecutive year**. We warmly invite **dedicated high school and undergraduate students** to apply for hands-on research opportunities in the following interdisciplinary areas:
+The **Villanova Summer Research Internship (VSRI)** is now accepting applications for its **fourth consecutive year**. We warmly invite **motivated high school and undergraduate students** to apply for immersive, hands-on research experiences across a range of interdisciplinary topics.
 
 ## 🔬 Research Areas
 
@@ -18,21 +18,21 @@ The **Villanova Summer Research Internship (VSRI)** Program is now accepting app
 **Funded by the National Institutes of Health**, this project investigates how climatic events and extreme weather influence human activities, travel behavior, and mobility patterns.
 
 ### 2. Transportation and Health Research  
-In collaboration with the **Institute of Human Virology (IHV)**, this ongoing research explores multimodal international and long-distance travel (air, rail, car, etc.) and reconstructs spatial-temporal disease dynamics using human activity and trajectory data.
+In collaboration with the **Institute of Human Virology (IHV)**, this ongoing study analyzes multimodal long-distance travel (air, rail, car, etc.) and reconstructs spatial-temporal disease dynamics using human activity and trajectory data.
 
 ### 3. Electric Vehicle Market Study  
-This seed project examines adoption tendencies and hesitancy in **mature and emerging EV markets**, focusing on case studies from Norway, Sweden, and the U.S. using market data, vehicle registrations, and empirical evidence.
+This seed project examines adoption trends and hesitancy in **mature and emerging EV markets**, focusing on Norway, Sweden, and the U.S., using market data, registration records, and empirical insights.
 
 ### 4. Carbon Credits and Carbon Neutralization  
-**Funded by the U.S. Department of Transportation (USDOT)**, this initiative develops a new financing system based on tradable carbon and equity credits. Travelers who shift to non-driving transportation modes can earn credits, which may be acquired by organizations working toward carbon neutrality.
+**Funded by the U.S. Department of Transportation (USDOT)**, this project explores innovative financing systems based on tradable carbon and equity credits. Travelers who shift to sustainable modes earn credits that can be purchased by others to meet carbon goals.
+
+---
 
 ## 🎓 Alumni Placements
 
-Our VSRI alumni have gone on to pursue exceptional academic paths at leading institutions. These placements reflect the strength of their research experiences and the rigorous mentorship provided through the program.
+VSRI alumni have successfully continued their academic journeys at world-renowned institutions—demonstrating the program’s impact and the power of research-based mentorship.
 
 ### 🎒 Undergraduate Matriculations (from high school interns)
-
-Our high school VSRI interns have been accepted into top-tier undergraduate programs including:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center; margin-top: 10px;">
   <img src="/images/logos/stanford.png" alt="Stanford" style="height: 50px;">
@@ -43,15 +43,12 @@ Our high school VSRI interns have been accepted into top-tier undergraduate prog
 
 ### 🎓 Graduate School Placements (from undergraduate interns)
 
-VSRI undergraduate interns have continued their academic careers in top graduate programs, including:
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center; margin-top: 10px;">
   <img src="/images/logos/harvard.png" alt="Harvard School of Public Health" style="height: 50px;">
   <img src="/images/logos/asu.png" alt="Arizona State University" style="height: 50px;">
   <img src="/images/logos/cmu.png" alt="Carnegie Mellon University" style="height: 50px;">
   <img src="/images/logos/jhu.png" alt="Johns Hopkins University" style="height: 50px;">
 </div>
-
 
 ### ✨ Alumni Reflections
 
@@ -67,18 +64,23 @@ Villanova University is a private, Catholic research university located just out
 - Ranked **#51 nationally** by *U.S. News & World Report* (2022–2023)  
 - Two light rail lines connect the campus to downtown Philadelphia  
 - Emphasis on **experiential learning**, including internships and undergraduate research  
-- Vibrant extracurricular life and career development opportunities
-
-## 📅 Application Details
-
-- **Who can apply:** High school juniors/seniors and undergraduate students (any year)
-- **Format:** Full-time high school summer internship (8–10 weeks); Internship starts year round for undergraduates
-- **Location:** Villanova University (in-person preferred; hybrid options may be considered)
-
-## ✉️ How to Apply
-
-Please fill the application form: https://forms.gle/LvD6wPkDF1DN1dkw9 
+- Vibrant extracurricular life and professional development opportunities  
 
 ---
 
-We look forward to receiving your application!
+## 📅 Application Details
+
+- **Who can apply:** High school juniors/seniors and undergraduate students (all years)  
+- **Format:**  
+  - *High School Students:* 8–10 week full-time summer internship  
+  - *Undergraduates:* Year-round opportunities available  
+- **Location:** Villanova University (in-person preferred; hybrid options may be discussed)  
+
+---
+
+## ✉️ How to Apply
+
+To apply, please complete the online form:  
+🔗 [**VSRI Application Form**](https://forms.gle/LvD6wPkDF1DN1dkw9)
+
+We look forward to reviewing your application!
