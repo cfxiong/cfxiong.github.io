@@ -3,7 +3,7 @@ layout: archive
 permalink: /recruit/
 author_profile: true
 redirect_from:
-  - /VSRI
+  - /VSRI/
 ---
 
 {% include base_path %}
