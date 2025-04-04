@@ -72,19 +72,12 @@ Villanova University is a private, Catholic research university located just out
 ## 📅 Application Details
 
 - **Who can apply:** High school juniors/seniors and undergraduate students (any year)
-- **Format:** Full-time summer internship (8–10 weeks)
+- **Format:** Full-time high school summer internship (8–10 weeks); Internship starts year round for undergraduates
 - **Location:** Villanova University (in-person preferred; hybrid options may be considered)
-- **Compensation:** Paid positions (funding varies by project)
 
 ## ✉️ How to Apply
 
-Please send a **single PDF file** containing the following to [chenfeng.xiong@villanova.edu](mailto:chenfeng.xiong@villanova.edu):
-
-1. A brief statement of interest (max 300 words)  
-2. Resume or CV  
-3. Unofficial transcript
-
-**Application Deadline:** *[Insert deadline here]*
+Please fill the application form: https://forms.gle/LvD6wPkDF1DN1dkw9 
 
 ---
 
