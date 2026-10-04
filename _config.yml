@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Chenfeng Xiong"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chenfeng Xiong"
+description              : &description "Assistant Professor studying human mobility, transportation systems, and data-driven public policy"
 url                      : https://cfxiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfxiong/cfxiong.github.io"
@@ -82,7 +82,28 @@ analytics:
 author:
   name             : "Chenfeng Xiong"
   avatar           : "profile.jpg"
+  brand_avatar     : "brand/profile-sidebar-brand-optimized.jpg"
+  wordmark         : "brand/cx-integrated-name-wordmark.svg"
   bio              : "Assistant Professor of Transportation Engineering"
+  title            : "Assistant Professor of Transportation Engineering"
+  fellow           : "Faculty Fellow, Strategic Initiative for Climate, Justice, and Sustainability"
+  statement        : "I study how people move, and how mobility systems shape safety, health, climate, and equity."
+  tags:
+    - "Mobility Data"
+    - "AI + Big Data"
+    - "Simulation"
+    - "Travel Behavior"
+    - "Safety + Health"
+    - "Climate + Equity"
+  lab_name         : "NovaMobility Lab"
+  lab_tagline      : "Villanova Human Mobility Data Lab"
+  metrics:
+    - value: "100+"
+      label: "Publications"
+    - value: "$12M+"
+      label: "Sponsored Research"
+    - value: "10+"
+      label: "Students + Alumni"
   location         : "Villanova University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +123,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/chenfeng-xiong"
+  linkedin         : "chenfeng-xiong"
   orcid            : "http://orcid.org/0000-0003-4237-1750"
   pinterest        :
   soundcloud       :

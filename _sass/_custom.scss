@@ -1,0 +1,327 @@
+/* ==========================================================================
+   Site-specific refinements
+   ========================================================================== */
+
+$nova-navy: #002664;
+$nova-sky: #13b5ea;
+$nova-ink: #17324d;
+$nova-muted: #55708a;
+$nova-line: #d8e2eb;
+$nova-wash: #f4f8fb;
+
+.author__brand {
+  color: $nova-ink;
+  font-family: "Avenir Next", $sans-serif;
+  text-align: center;
+}
+
+.author__brand-avatar {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 1rem;
+
+  img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 47% 42%;
+    box-shadow: 0 0 0 2px $nova-navy, 0 0 0 5px rgba($nova-sky, 0.24), 0 12px 26px rgba($nova-ink, 0.16);
+  }
+}
+
+.author__brand-wordmark {
+  display: block;
+  width: 100%;
+  max-width: 236px;
+  margin: 0 auto 0.45rem;
+}
+
+.author__brand-title,
+.author__brand-fellow {
+  max-width: 220px;
+  margin-right: auto;
+  margin-left: auto;
+  color: #33485d;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.author__brand-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.author__brand-fellow {
+  margin-top: 0.45rem;
+  margin-bottom: 0;
+  color: $nova-muted;
+  font-size: 0.69rem;
+}
+
+.author__brand-focus {
+  margin-top: 0.9rem;
+  padding: 0.75rem 0.8rem;
+  border-left: 3px solid $nova-sky;
+  background: $nova-wash;
+  text-align: left;
+
+  p {
+    margin: 0;
+    color: #43566a;
+    font-size: 0.69rem;
+    font-weight: 500;
+    line-height: 1.45;
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.65rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    padding: 0.22rem 0.45rem;
+    border: 1px solid #c7d6e4;
+    border-radius: 999px;
+    background: #fff;
+    color: $nova-navy;
+    font-size: 0.62rem;
+    font-weight: 700;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+}
+
+.author__brand-lab {
+  margin-top: 0.75rem;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #c7d6e4;
+  border-radius: 7px;
+  background: #fff;
+  text-align: left;
+
+  strong,
+  span {
+    display: block;
+  }
+
+  strong {
+    color: $nova-navy;
+    font-size: 0.72rem;
+    line-height: 1.25;
+  }
+
+  span {
+    margin-top: 0.2rem;
+    color: $nova-muted;
+    font-size: 0.63rem;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+}
+
+.author__brand-metrics {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.35rem;
+  margin-top: 0.75rem;
+
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.45rem;
+    padding: 0.48rem 0.6rem;
+    border-radius: 7px;
+    background: $nova-navy;
+    color: #fff;
+  }
+
+  strong,
+  span {
+    display: block;
+  }
+
+  strong {
+    font-size: 0.78rem;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  span {
+    color: rgba(#fff, 0.82);
+    font-size: 0.56rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: right;
+  }
+}
+
+.author__brand-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.45rem;
+  margin-top: 0.8rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.65rem;
+    height: 1.55rem;
+    padding: 0 0.35rem;
+    border: 1px solid #c7d6e4;
+    border-radius: 999px;
+    color: $nova-navy;
+    background: #fff;
+    font-size: 0.58rem;
+    font-weight: 800;
+    line-height: 1;
+    text-decoration: none;
+
+    span {
+      display: block;
+      letter-spacing: 0;
+    }
+
+    &:hover {
+      border-color: $nova-sky;
+      color: $nova-sky;
+      text-decoration: none;
+    }
+  }
+}
+
+.home-hero {
+  margin-bottom: 2.5rem;
+  padding: 2rem 0 1rem;
+}
+
+.home-eyebrow {
+  margin-bottom: 0.75rem;
+  color: #55708a;
+  font-family: $sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.home-hero h1 {
+  max-width: 920px;
+  margin: 0 0 1rem;
+  color: #17324d;
+  font-size: 2rem;
+  line-height: 1.15;
+
+  @include breakpoint($small) {
+    font-size: 2.35rem;
+  }
+}
+
+.home-lead {
+  max-width: 860px;
+  color: #33485d;
+  font-size: 1.06rem;
+  line-height: 1.65;
+}
+
+.home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.home-section {
+  margin: 2rem 0;
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.home-band {
+  padding: 1.35rem 1.5rem;
+  border-left: 4px solid #2b6f8f;
+  background: #f4f8fb;
+}
+
+.home-grid,
+.home-link-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.home-card {
+  padding: 1rem;
+  border: 1px solid #d8e2eb;
+  border-radius: 6px;
+  background: #fff;
+
+  h3 {
+    margin-top: 0;
+    color: #17324d;
+    font-size: 1rem;
+  }
+
+  p {
+    margin-bottom: 0;
+    color: #43566a;
+    font-size: 0.92rem;
+    line-height: 1.55;
+  }
+}
+
+.home-list {
+  padding-left: 1.15rem;
+
+  li {
+    margin-bottom: 0.7rem;
+  }
+}
+
+.home-link-grid {
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  a {
+    display: block;
+    padding: 1rem;
+    border: 1px solid #d8e2eb;
+    border-radius: 6px;
+    color: #17324d;
+    text-decoration: none;
+
+    &:hover {
+      border-color: #2b6f8f;
+      text-decoration: none;
+    }
+  }
+
+  strong,
+  span {
+    display: block;
+  }
+
+  span {
+    margin-top: 0.35rem;
+    color: #4e6072;
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+}

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 132" role="img" aria-labelledby="title desc">
+  <title id="title">Chenfeng Xiong integrated mobility wordmark</title>
+  <desc id="desc">A Chenfeng Xiong wordmark where the C and X are drawn as quiet Villanova-blue mobility route letters.</desc>
+
+  <g transform="translate(27 40) scale(0.78)">
+    <path d="M62 17c-9-7-20-11-34-11C9 6-5 21-5 43s14 37 33 37c14 0 25-4 34-11" fill="none" stroke="#002664" stroke-width="9" stroke-linecap="round"/>
+    <path d="M59 19c-7-5-17-9-29-9C13 10 1 24 1 43s12 33 29 33c12 0 22-4 29-9" fill="none" stroke="#13B5EA" stroke-width="2.8" stroke-linecap="round" opacity="0.85"/>
+    <g fill="#13B5EA" opacity="0.9">
+      <circle cx="62" cy="17" r="4"/>
+      <circle cx="62" cy="69" r="4"/>
+    </g>
+  </g>
+
+  <text x="80" y="101" fill="#002664" font-family="Avenir Next, Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.2">henfeng</text>
+
+  <g transform="translate(313 42) scale(0.78)">
+    <path d="M5 8c19 18 36 41 58 58" fill="none" stroke="#002664" stroke-width="9" stroke-linecap="round"/>
+    <path d="M7 10c18 17 34 39 55 55" fill="none" stroke="#13B5EA" stroke-width="2.8" stroke-linecap="round" opacity="0.85"/>
+    <path d="M63 8c-22 17-39 40-58 58" fill="none" stroke="#13B5EA" stroke-width="9" stroke-linecap="round"/>
+    <g fill="#13B5EA" opacity="0.9">
+      <circle cx="5" cy="8" r="4"/>
+      <circle cx="63" cy="8" r="4"/>
+      <circle cx="34" cy="37" r="4.5"/>
+      <circle cx="5" cy="66" r="4"/>
+      <circle cx="63" cy="66" r="4"/>
+    </g>
+  </g>
+
+  <text x="371" y="101" fill="#002664" font-family="Avenir Next, Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.2">iong</text>
+</svg>

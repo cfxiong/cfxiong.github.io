@@ -11,3 +11,9 @@ comments:
 
 sass:
   style: expanded
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
