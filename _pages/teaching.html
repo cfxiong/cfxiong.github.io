@@ -3,10 +3,111 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+hide_title: true
+main_class: teaching-main
 ---
 
-{% include base_path %}
+<section class="teaching-hero">
+  <div>
+    <p class="home-kicker">Teaching portfolio</p>
+    <h1>Teaching transportation as a living system.</h1>
+    <p>I modernize transportation engineering education by connecting field observation, simulation, experiments, research seminars, and mentored student projects. Students learn transportation not only as formulas and design standards, but as a system they can measure, model, question, and improve.</p>
+  </div>
+  <div class="teaching-hero__stats" aria-label="Teaching summary">
+    <div><strong>3</strong><span>learning modes</span></div>
+    <div><strong>6</strong><span>undergraduate paper contributors</span></div>
+    <div><strong>4+</strong><span>seminars and workshops</span></div>
+  </div>
+</section>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<section class="teaching-feature teaching-feature--field">
+  <div class="teaching-feature__copy">
+    <p class="home-kicker">01 / Modernizing the field</p>
+    <h2>From lectures to lived transportation systems.</h2>
+    <p>My courses use field studies, simulation modeling, experiments, and project-based learning to make transportation engineering tangible. Students collect observations, test design ideas, and connect classroom methods to real mobility systems around campus and the Philadelphia region.</p>
+    <ul class="teaching-list">
+      <li>Field studies that put students in direct contact with traffic operations, transit service, and roadway design.</li>
+      <li>Hands-on modules using simulation, data analysis, and system design exercises.</li>
+      <li>Student presentations that turn technical observation into evidence-based engineering judgment.</li>
+    </ul>
+  </div>
+  <div class="teaching-photo-mosaic teaching-photo-mosaic--field">
+    <figure class="teaching-photo teaching-photo--large">
+      <img src="/images/teaching/field-study.jpg?v=teach2" alt="Students conducting a field study near Villanova's campus gateway">
+    </figure>
+    <figure class="teaching-photo">
+      <img src="/images/teaching/classroom-awards.jpg?v=teach2" alt="Students recognized in Introduction to Transportation Engineering">
+    </figure>
+    <figure class="teaching-photo">
+      <img src="/images/teaching/septa-presentation.jpg?v=teach2" alt="Student team presenting a SEPTA Conshohocken station project">
+    </figure>
+  </div>
+</section>
+
+<section class="teaching-feature teaching-feature--seminar">
+  <div class="teaching-feature__copy">
+    <p class="home-kicker">02 / Research in the classroom</p>
+    <h2>Bringing students close to high-level transportation research.</h2>
+    <p>I invite scholars and practitioners into the classroom through seminars, guest lectures, and workshops so that undergraduate and graduate students can see how research questions are formed, debated, and translated into practice.</p>
+    <ul class="teaching-list teaching-list--compact">
+      <li>Recent visitors and examples include Kara Kockelman, Jaeyoung Lee, Chaoru Lu, and Paul Comfort.</li>
+      <li>Topics span pedestrian and bicycle safety, mobility analytics, transit practice, modeling, infrastructure, and technology adoption.</li>
+      <li>The goal is to make research culture visible and approachable early in students' training.</li>
+    </ul>
+  </div>
+  <div class="teaching-guest-grid">
+    <figure class="teaching-photo"><img src="/images/teaching/guest-safety.jpg?v=teach2" alt="Guest lecture on pedestrian and bicycle safety"></figure>
+    <figure class="teaching-photo"><img src="/images/teaching/research-workshop.jpg?v=teach2" alt="Transportation research workshop with students"></figure>
+    <figure class="teaching-photo"><img src="/images/teaching/paul-comfort.jpg?v=teach2" alt="Paul Comfort visiting Villanova transportation engineering"></figure>
+    <figure class="teaching-photo"><img src="/images/teaching/kara-kockelman.jpg?v=teach2" alt="Kara Kockelman speaking in a transportation seminar"></figure>
+  </div>
+</section>
+
+<section class="teaching-feature teaching-feature--pipeline">
+  <div class="teaching-feature__copy">
+    <p class="home-kicker">03 / Research pathways</p>
+    <h2>Designing research projects for students at different entry points.</h2>
+    <p>I build scaffolded research experiences for high school, undergraduate, and graduate students, including the Villanova Summer Research Internship, Match Program, Sophomore Research Scholar, and Villanova Summer Research Scholarship. These projects give students a real path from curiosity to research output.</p>
+    <div class="teaching-callout">
+      <strong>6 undergraduate students</strong>
+      <span>have contributed to paper publications through mentored transportation research projects.</span>
+    </div>
+  </div>
+  <div class="teaching-photo-pair">
+    <figure class="teaching-photo">
+      <img src="/images/teaching/student-research.jpg?v=teach2" alt="Undergraduate student research team presenting flood impact analysis">
+    </figure>
+    <figure class="teaching-photo">
+      <img src="/images/teaching/simulation-lab.jpg?v=teach2" alt="Students exploring transportation simulation and immersive lab tools">
+    </figure>
+  </div>
+</section>
+
+<section class="teaching-courses">
+  <div class="teaching-courses__intro">
+    <p class="home-kicker">Courses and formats</p>
+    <h2>Core teaching areas</h2>
+  </div>
+  <div class="teaching-course-grid">
+    <article>
+      <span>Undergraduate</span>
+      <h3>CEE 2211: Introduction to Transportation Engineering</h3>
+      <p>Field studies, traffic operations, transit, multimodal systems, and introductory design judgment.</p>
+    </article>
+    <article>
+      <span>Undergraduate</span>
+      <h3>CEE 4226: Transportation System Design</h3>
+      <p>System-level design, project analysis, data-informed evaluation, and applied engineering communication.</p>
+    </article>
+    <article>
+      <span>Graduate</span>
+      <h3>CEE 8201: Urban Transportation Engineering</h3>
+      <p>Urban mobility systems, planning, modeling, policy, equity, and emerging transportation data.</p>
+    </article>
+    <article>
+      <span>Workshops</span>
+      <h3>Simulation and Research Methods</h3>
+      <p>Short-format modules on traffic simulation, mobility data, modeling tools, and research practice.</p>
+    </article>
+  </div>
+</section>
