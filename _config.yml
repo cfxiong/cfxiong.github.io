@@ -86,7 +86,7 @@ author:
   wordmark         : "brand/cx-integrated-name-wordmark.svg"
   bio              : "Assistant Professor of Transportation Engineering"
   title            : "Assistant Professor of Transportation Engineering"
-  fellow           : "Faculty Fellow, Strategic Initiative for Climate, Justice, and Sustainability"
+  fellow           : "Faculty Fellow, Strategic Initiative for Climate, Justice, and Sustainability, Villanova University"
   statement        : "I study how people move, and how mobility systems shape safety, health, climate, and equity."
   tags:
     - "Mobility Data"
@@ -102,7 +102,7 @@ author:
       label: "Publications"
     - value: "$12M+"
       label: "Sponsored Research"
-    - value: "10+"
+    - value: "30+"
       label: "Students + Alumni"
   location         : "Villanova University"
   employer         :
