@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Dynamic travel behavior states</title>
+  <desc id="desc">A stylized hidden-state transition diagram for travel behavior modeling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#e6f3fb"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" x2="1">
+      <stop offset="0" stop-color="#002664"/>
+      <stop offset="1" stop-color="#13b5ea"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+      <path d="M2 2 L10 6 L2 10 Z" fill="#13b5ea"/>
+    </marker>
+  </defs>
+  <rect width="720" height="460" fill="url(#bg)"/>
+  <g fill="none" stroke="#c6d7e6" stroke-width="1">
+    <path d="M0 95H720M0 185H720M0 275H720M0 365H720"/>
+    <path d="M110 0V460M240 0V460M370 0V460M500 0V460M630 0V460"/>
+  </g>
+  <path d="M94 316 C172 195 245 184 318 238 S474 335 612 154" fill="none" stroke="url(#route)" stroke-width="12" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M118 154 C216 138 278 106 354 146 S488 230 610 224" fill="none" stroke="#7c96ac" stroke-width="4" stroke-dasharray="10 12" stroke-linecap="round"/>
+  <g font-family="Avenir Next, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(120 320)">
+      <circle r="46" fill="#fff" stroke="#002664" stroke-width="4"/>
+      <text y="-4" fill="#002664" font-size="18" font-weight="700">Home</text>
+      <text y="20" fill="#55708a" font-size="13">t0</text>
+    </g>
+    <g transform="translate(312 240)">
+      <circle r="54" fill="#fff" stroke="#13b5ea" stroke-width="5"/>
+      <text y="-7" fill="#002664" font-size="18" font-weight="700">Mode</text>
+      <text y="18" fill="#55708a" font-size="13">choice</text>
+    </g>
+    <g transform="translate(472 318)">
+      <circle r="48" fill="#fff" stroke="#002664" stroke-width="4"/>
+      <text y="-5" fill="#002664" font-size="17" font-weight="700">Switch</text>
+      <text y="19" fill="#55708a" font-size="13">state</text>
+    </g>
+    <g transform="translate(612 154)">
+      <circle r="50" fill="#fff" stroke="#13b5ea" stroke-width="5"/>
+      <text y="-5" fill="#002664" font-size="17" font-weight="700">Activity</text>
+      <text y="19" fill="#55708a" font-size="13">t+1</text>
+    </g>
+  </g>
+  <g transform="translate(48 42)" font-family="Avenir Next, Arial, sans-serif">
+    <text fill="#002664" font-size="24" font-weight="800">Travel behavior dynamics</text>
+    <text y="31" fill="#55708a" font-size="15">Hidden preferences, mode switching, departure time, and incentive response</text>
+  </g>
+</svg>
