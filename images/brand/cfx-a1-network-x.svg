@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 160" role="img" aria-labelledby="title desc">
+  <title id="title">CFX Network X monogram</title>
+  <desc id="desc">A CFX monogram where the X is drawn as crossing mobility network routes.</desc>
+  <rect width="360" height="160" rx="18" fill="#ffffff"/>
+  <g fill="none" stroke="#17324d" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 44c-10-10-25-16-42-16-25 0-44 20-44 52s19 52 44 52c17 0 32-6 42-16"/>
+    <path d="M130 28v104M130 28h64M130 78h52"/>
+  </g>
+  <g fill="none" stroke="#2b6f8f" stroke-width="9" stroke-linecap="round">
+    <path d="M226 32c24 26 47 60 76 96"/>
+    <path d="M302 32c-29 36-52 70-76 96"/>
+  </g>
+  <g fill="#2b6f8f">
+    <circle cx="226" cy="32" r="6"/>
+    <circle cx="302" cy="32" r="6"/>
+    <circle cx="264" cy="80" r="7"/>
+    <circle cx="226" cy="128" r="6"/>
+    <circle cx="302" cy="128" r="6"/>
+  </g>
+</svg>

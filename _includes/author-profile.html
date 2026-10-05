@@ -54,25 +54,39 @@
 
   <div class="author__brand-social" aria-label="Follow links">
     {% if author.email %}
-      <a href="mailto:{{ author.email }}" aria-label="Email"><span>Email</span></a>
+      <a href="mailto:{{ author.email }}" aria-label="Email">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="m4 7 8 6 8-6"/></svg>
+      </a>
     {% endif %}
     {% if author.researchgate %}
-      <a href="{{ author.researchgate }}" aria-label="ResearchGate"><span>RG</span></a>
+      <a href="{{ author.researchgate }}" aria-label="ResearchGate">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="7" cy="7" r="2.4"/><circle cx="17" cy="7" r="2.4"/><circle cx="12" cy="17" r="2.4"/><path d="M8.8 8.5 11 15M15.2 8.5 13 15M9.4 7h5.2"/></svg>
+      </a>
     {% endif %}
     {% if author.twitter %}
-      <a href="https://twitter.com/{{ author.twitter }}" aria-label="Twitter"><span>X</span></a>
+      <a href="https://twitter.com/{{ author.twitter }}" aria-label="Twitter">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h3.2l8.8 14h-3.2z"/><path d="M18 5 6 19"/></svg>
+      </a>
     {% endif %}
     {% if author.linkedin %}
-      <a href="https://www.linkedin.com/in/{{ author.linkedin }}" aria-label="LinkedIn"><span>in</span></a>
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}" aria-label="LinkedIn">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6.2" cy="6" r="1.8"/><path d="M4.7 10h3v9h-3zM11 10h2.8v1.4c.6-.9 1.6-1.6 3-1.6 2.2 0 3.7 1.5 3.7 4.4V19h-3v-4.3c0-1.4-.5-2.2-1.7-2.2-1.1 0-1.8.8-1.8 2.2V19h-3z"/></svg>
+      </a>
     {% endif %}
     {% if author.github %}
-      <a href="https://github.com/{{ author.github }}" aria-label="GitHub"><span>GH</span></a>
+      <a href="https://github.com/{{ author.github }}" aria-label="GitHub">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.8 19.5c-4.1 1.2-4.1-1.8-5.8-2.2"/><path d="M15.2 21v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.8-1.4 5.8-6.3 0-1.4-.5-2.6-1.3-3.5.1-.3.6-1.7-.1-3.5 0 0-1.1-.3-3.6 1.3a12.5 12.5 0 0 0-6.5 0C6.5 1.9 5.4 2.2 5.4 2.2c-.7 1.8-.2 3.2-.1 3.5A5 5 0 0 0 4 9.2c0 4.9 3 6 5.8 6.3-.4.4-.6.9-.6 1.8V21"/></svg>
+      </a>
     {% endif %}
     {% if author.googlescholar %}
-      <a href="{{ author.googlescholar }}" aria-label="Google Scholar"><span>GS</span></a>
+      <a href="{{ author.googlescholar }}" aria-label="Google Scholar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 8.5 9-4.5 9 4.5-9 4.5z"/><path d="M7 11v4.2c1.4 1 3 1.6 5 1.6s3.6-.6 5-1.6V11"/><path d="M20 9v6"/></svg>
+      </a>
     {% endif %}
     {% if author.orcid %}
-      <a href="{{ author.orcid }}" aria-label="ORCID"><span>OR</span></a>
+      <a href="{{ author.orcid }}" aria-label="ORCID">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M8.6 10.2v6.2"/><path d="M8.6 7.8h.01"/><path d="M12.2 16.4V7.8h2.2c2.5 0 4 1.7 4 4.3s-1.5 4.3-4 4.3z"/></svg>
+      </a>
     {% endif %}
   </div>
 </div>

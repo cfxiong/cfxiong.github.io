@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+  <title id="title">CX Origin-Destination Flow monogram</title>
+  <desc id="desc">A simplified CX monogram in Villanova navy and light blue, with the C as an origin-destination route and the X as crossing mobility flows.</desc>
+  <rect width="320" height="160" rx="18" fill="#ffffff"/>
+  <path d="M124 40c-14-12-32-19-53-19-38 0-64 25-64 59s26 59 64 59c21 0 39-7 53-19" fill="none" stroke="#002664" stroke-width="12" stroke-linecap="round"/>
+  <path d="M120 42c-10-8-25-14-43-14-31 0-53 22-53 52s22 52 53 52c18 0 33-6 43-14" fill="none" stroke="#13B5EA" stroke-width="3.5" stroke-linecap="round" opacity="0.95"/>
+  <g fill="#13B5EA">
+    <circle cx="124" cy="40" r="6"/>
+    <circle cx="124" cy="120" r="6"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <path d="M176 29c35 34 66 75 105 102" stroke="#002664" stroke-width="13"/>
+    <path d="M178 31c33 32 63 72 101 98" stroke="#13B5EA" stroke-width="3.75" opacity="0.95"/>
+    <path d="M281 29c-39 27-70 68-105 102" stroke="#13B5EA" stroke-width="13"/>
+  </g>
+  <g fill="#13B5EA">
+    <circle cx="176" cy="29" r="6"/>
+    <circle cx="281" cy="29" r="6"/>
+    <circle cx="229" cy="80" r="7"/>
+    <circle cx="176" cy="131" r="6"/>
+    <circle cx="281" cy="131" r="6"/>
+  </g>
+</svg>

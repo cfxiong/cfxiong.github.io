@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-labelledby="title desc">
+  <title id="title">Chenfeng Xiong wordmark with mobility route underline</title>
+  <desc id="desc">A full-name wordmark with an understated origin-destination route underline.</desc>
+  <rect width="520" height="160" rx="18" fill="#ffffff"/>
+  <text x="28" y="74" fill="#17324d" font-family="Inter, Helvetica, Arial, sans-serif" font-size="40" font-weight="760" letter-spacing="-0.5">Chenfeng Xiong</text>
+  <text x="30" y="107" fill="#55708a" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" font-weight="650">Human Mobility · Transportation Data · Policy</text>
+  <path d="M30 126h155c25 0 31-18 57-18h88c26 0 33 18 58 18h100" fill="none" stroke="#2b6f8f" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#2b6f8f">
+    <circle cx="30" cy="126" r="5"/>
+    <circle cx="242" cy="108" r="5"/>
+    <circle cx="388" cy="126" r="5"/>
+    <circle cx="488" cy="126" r="5"/>
+  </g>
+</svg>

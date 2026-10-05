@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CX Sidebar Type Preview</title>
+  <style>
+    :root {
+      --nova-navy: #002664;
+      --nova-sky: #13b5ea;
+      --ink: #17324d;
+      --muted: #55708a;
+      --line: #d8e2eb;
+      --paper: #ffffff;
+      --wash: #f4f8fb;
+      --type-brand: "Avenir Next", Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      --type-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      padding: 44px;
+      color: var(--ink);
+      background: #eef3f7;
+      font-family: var(--type-body);
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-family: var(--type-brand);
+      font-size: 30px;
+      letter-spacing: 0;
+    }
+
+    .note {
+      max-width: 760px;
+      margin: 0 0 28px;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.55;
+    }
+
+    .stage {
+      display: grid;
+      grid-template-columns: minmax(240px, 300px) minmax(420px, 1fr);
+      gap: 32px;
+      align-items: start;
+    }
+
+    .sidebar {
+      width: 280px;
+      padding: 22px 22px 26px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--paper);
+      box-shadow: 0 12px 32px rgba(23, 50, 77, 0.1);
+    }
+
+    .avatar {
+      display: block;
+      width: 155px;
+      height: 155px;
+      margin: 0 auto 18px;
+      border: 4px solid #fff;
+      border-radius: 50%;
+      object-fit: cover;
+      box-shadow: 0 0 0 1px var(--line), 0 10px 26px rgba(23, 50, 77, 0.14);
+    }
+
+    .cx-mark {
+      display: block;
+      width: 116px;
+      margin: 0 auto 10px;
+    }
+
+    .name {
+      margin: 0;
+      color: var(--nova-navy);
+      font-family: var(--type-brand);
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.08;
+      letter-spacing: 0;
+      text-align: center;
+    }
+
+    .role {
+      margin: 8px auto 0;
+      max-width: 210px;
+      color: #33485d;
+      font-size: 13px;
+      font-weight: 550;
+      line-height: 1.45;
+      text-align: center;
+    }
+
+    .identity {
+      margin: 18px 0 0;
+      padding: 13px 14px;
+      border-left: 3px solid var(--nova-sky);
+      background: var(--wash);
+      color: var(--ink);
+      font-family: var(--type-brand);
+      font-size: 12px;
+      font-weight: 650;
+      line-height: 1.55;
+      text-align: left;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin: 16px 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .tags li {
+      padding: 4px 8px;
+      border: 1px solid #c7d6e4;
+      border-radius: 999px;
+      color: var(--nova-navy);
+      background: #fff;
+      font-size: 10.5px;
+      font-weight: 650;
+      line-height: 1.2;
+    }
+
+    .links {
+      margin-top: 18px;
+      padding-top: 15px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.9;
+    }
+
+    .panel {
+      padding: 28px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--paper);
+    }
+
+    .panel h2 {
+      margin: 0 0 14px;
+      font-family: var(--type-brand);
+      font-size: 22px;
+      letter-spacing: 0;
+    }
+
+    .type-row {
+      display: grid;
+      grid-template-columns: 120px 1fr;
+      gap: 18px;
+      align-items: center;
+      padding: 18px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .type-row:first-of-type {
+      border-top: 0;
+    }
+
+    .type-row img {
+      width: 110px;
+    }
+
+    .display-name {
+      margin: 0 0 6px;
+      color: var(--nova-navy);
+      font-family: var(--type-brand);
+      font-size: 34px;
+      font-weight: 700;
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .display-kicker {
+      color: var(--muted);
+      font-family: var(--type-brand);
+      font-size: 14px;
+      font-weight: 650;
+      letter-spacing: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>CX mark + name typography</h1>
+  <p class="note">Recommended type: <strong>Avenir Next</strong> for the name, falling back to Inter/system sans-serif. The mark stays independent; the name is treated as clean sidebar typography rather than as a combined logo.</p>
+
+  <main class="stage">
+    <aside class="sidebar" aria-label="Sidebar preview">
+      <img class="avatar" src="../profile.jpg" alt="Chenfeng Xiong profile portrait">
+      <img class="cx-mark" src="cfx-a2-od-flow.svg" alt="CX mobility mark">
+      <h2 class="name">Chenfeng Xiong</h2>
+      <p class="role">Assistant Professor<br>Civil and Environmental Engineering<br>Villanova University</p>
+      <p class="identity">Human Mobility · Transportation Data · Policy</p>
+      <ul class="tags">
+        <li>Mobility Data</li>
+        <li>Travel Behavior</li>
+        <li>Safety + Health</li>
+        <li>Climate + Equity</li>
+      </ul>
+      <div class="links">
+        Villanova University<br>
+        NovaMobility Lab<br>
+        Google Scholar · CV · Email
+      </div>
+    </aside>
+
+    <section class="panel" aria-label="Typography scale preview">
+      <h2>Type pairing at larger scale</h2>
+      <div class="type-row">
+        <img src="cfx-a2-od-flow.svg" alt="">
+        <div>
+          <p class="display-name">Chenfeng Xiong</p>
+          <div class="display-kicker">Human Mobility · Transportation Data · Policy</div>
+        </div>
+      </div>
+      <div class="type-row">
+        <img src="cfx-a2-od-flow.svg" alt="">
+        <div>
+          <p class="display-name" style="font-weight: 650;">Chenfeng Xiong</p>
+          <div class="display-kicker">Slightly lighter weight for a softer academic feel</div>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
