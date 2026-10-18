@@ -18,7 +18,7 @@ redirect_from:
     <div class="home-actions">
       <a class="btn btn--primary" href="/projects/">Featured Projects</a>
       <a class="btn" href="/publications/">Publications</a>
-      <a class="btn" href="/data-lab/">NovaMobility Lab</a>
+      <a class="btn" href="https://villanova-transportation.github.io/">NovaMobility Labs</a>
     </div>
   </div>
 </section>
@@ -89,15 +89,15 @@ redirect_from:
 </section>
 
 <section class="home-section home-band">
-  <h2>NovaMobility Lab</h2>
-  <p>The Villanova Human Mobility Data Lab builds scalable mobility datasets, computational pipelines, and research-ready analytics for national and international transportation problems.</p>
+  <h2>NovaMobility Labs</h2>
+  <p>Villanova Human Mobility Labs (NovaMobility Labs) builds scalable mobility datasets, computational pipelines, and research-ready analytics for national and international transportation problems.</p>
   <div class="home-lab-grid">
     <div><strong>TB-scale pipelines</strong><span>Location-based services, trajectories, surveys, and system data.</span></div>
     <div><strong>Cloud + HPC computing</strong><span>Spark, Hadoop, HBase, Docker, Sedona, and high-performance computing.</span></div>
     <div><strong>Mobility visualization</strong><span>Maps, dashboards, and spatial-temporal data products.</span></div>
     <div><strong>Policy-facing analytics</strong><span>Research outputs for agencies, collaborators, and communities.</span></div>
   </div>
-  <p><a href="/data-lab/">Learn more about NovaMobility Lab</a></p>
+  <p><a href="https://villanova-transportation.github.io/">Learn more about NovaMobility Labs</a></p>
 </section>
 
 <section class="home-section home-band">

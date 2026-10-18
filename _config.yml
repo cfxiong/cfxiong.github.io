@@ -95,8 +95,8 @@ author:
     - "Travel Behavior"
     - "Safety + Health"
     - "Climate + Equity"
-  lab_name         : "NovaMobility Lab"
-  lab_tagline      : "Villanova Human Mobility Data Lab"
+  lab_name         : "NovaMobility Labs"
+  lab_tagline      : "Villanova Human Mobility Labs"
   metrics:
     - value: "100+"
       label: "Publications"

@@ -11,7 +11,7 @@ redirect_from:
 
 <section class="opportunities-hero">
   <div class="opportunities-hero__copy">
-    <p class="home-kicker">Join NovaMobility Lab</p>
+    <p class="home-kicker">Join NovaMobility Labs</p>
     <h1>Hands-on research opportunities for students ready to study mobility, data, and society.</h1>
     <p>The Villanova Summer Research Internship (VSRI) is now accepting applications for its fourth consecutive year. We welcome motivated high school and undergraduate students into immersive research experiences across mobility data, AI, transportation systems, climate, health, and equity.</p>
     <div class="opportunities-hero__actions">
