@@ -5,10 +5,35 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
+<section class="featured-projects" aria-label="Featured research projects">
+  <p class="home-kicker">Villanova Human Mobility Labs (NovaMobility Labs)</p>
+  <h2>Mobility intelligence for transportation, health, and climate.</h2>
+  <p>Our group builds datasets, models, and tools with transportation agencies and health researchers. Explore four featured projects below, or visit <a href="https://villanova-transportation.github.io/">NovaMobility Labs</a> for our team, research platforms, and opportunities.</p>
+  <div class="featured-projects__grid">
+    <article class="featured-projects__card">
+      <a class="featured-projects__image" href="https://villanova-transportation.github.io/Complete-Trip-Data-Explorer/"><img src="/images/projects/featured/complete-trip-explorer.png" alt="Complete Trip dashboard showing linked journeys and transport modes in the Salt Lake City region" loading="lazy"></a>
+      <div class="featured-projects__body"><p class="featured-projects__sponsor">FHWA · Mobility data</p><h3>Complete Trip Data Explorer</h3><p>A linked travel dataset and interactive explorer covering approximately 28.8 million trip records across six Utah counties. Connect car, transit, and active travel to see the complete journey.</p><p class="featured-projects__credit">Dashboard by Ruohan Li et al.</p><div class="featured-projects__links"><a href="https://villanova-transportation.github.io/Complete-Trip-Data-Explorer/">Open explorer ↗</a><a href="https://github.com/villanova-transportation/Complete-Trip-Data-Explorer">Data &amp; code ↗</a><a href="https://doi.org/10.48550/arXiv.2607.15436">Dataset preprint ↗</a></div></div>
+    </article>
+    <article class="featured-projects__card">
+      <figure><a class="featured-projects__image" href="https://github.com/villanova-transportation/Transit_Equity_Credits"><img src="/images/projects/featured/transit-equity.png" alt="Related lab research mapping transit desert typologies" loading="lazy"></a><figcaption>Related lab research: transit desert typologies.</figcaption></figure>
+      <div class="featured-projects__body"><p class="featured-projects__sponsor">FTA · Transit equity</p><h3>Transit Equity Credits</h3><p>Can tradable equity credits improve access to public transit? We study dynamic pricing and different traveler needs to explore equitable transit incentives and financing.</p><p class="featured-projects__credit">Led by Xin Wu and Kailun Liu.<br>Published in Transportation Research Part E, 2026.</p><div class="featured-projects__links"><a href="https://doi.org/10.1016/j.tre.2026.104858">Read the paper ↗</a><a href="https://github.com/villanova-transportation/Transit_Equity_Credits">Explore open models ↗</a></div></div>
+    </article>
+    <article class="featured-projects__card">
+      <a class="featured-projects__image featured-projects__heat" href="https://villanova-transportation.github.io/heat-mobility/"><img src="/images/projects/featured/heat-summer.webp" alt="Summer land-surface temperature across Johannesburg–Ekurhuleni" loading="lazy"><img src="/images/projects/featured/heat-embeddings.webp" alt="Satellite embeddings of the same urban landscape" loading="lazy"></a>
+      <div class="featured-projects__body"><p class="featured-projects__sponsor">NIH · Villanova × IBM Research Africa</p><h3>HEAT Mobility</h3><p>Satellite imagery, urban form, and socioeconomic data help us understand surface heat inequity in Johannesburg–Ekurhuleni and evaluate equitable greening scenarios.</p><p class="featured-projects__credit">Led by Lele Zhang.<br>Research under review at Sustainable Cities and Society.</p><div class="featured-projects__links"><a href="https://villanova-transportation.github.io/heat-mobility/">Explore the project ↗</a><a href="https://villanova-transportation.github.io/heat-mobility/dashboard.html">Open dashboard ↗</a></div></div>
+    </article>
+    <article class="featured-projects__card">
+      <a class="featured-projects__image featured-projects__map" href="https://github.com/villanova-transportation/Human-Mobility-Data-Hub"><img src="/images/projects/featured/mobility-map.png" alt="Human mobility activity across South Africa" loading="lazy"></a>
+      <div class="featured-projects__body"><p class="featured-projects__sponsor">NIH U54 · INFORM Africa · DS-I Africa</p><h3>Human Mobility &amp; SARS-CoV-2</h3><p>Research in Nigeria and South Africa examines mobility patterns, interregional travel, and pandemic dynamics. Shared datasets and reproducible analyses support collaboration across transportation and public health.</p><div class="featured-projects__links"><a href="https://github.com/villanova-transportation/Human-Mobility-Data-Hub">Mobility data hub ↗</a><a href="https://doi.org/10.1371/journal.pone.0329621">South Africa study ↗</a><a href="https://doi.org/10.17159/sajs.2023/14727">Nigeria study ↗</a><a href="https://inform-africa.org/">INFORM Africa ↗</a></div></div>
+    </article>
+  </div>
+  <p class="featured-projects__visit"><a href="https://villanova-transportation.github.io/#research">Explore research at NovaMobility Labs →</a> <a href="https://villanova-transportation.github.io/#connect">Collaborate or join the team →</a></p>
+</section>
 
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<details class="featured-projects__archive">
+  <summary>More project background and earlier work</summary>
+  {% include base_path %}
+  {% for post in site.projects %}
+    {% include archive-single.html %}
+  {% endfor %}
+</details>

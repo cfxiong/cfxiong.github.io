@@ -2087,3 +2087,16 @@ $nova-wash: #f4f8fb;
     }
   }
 }
+
+/* Featured research on the personal Projects page. */
+.featured-projects { margin-top: 1rem; h2 { color: $nova-navy; line-height: 1.25; margin-top: .6rem; } }
+.featured-projects__grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.3rem; margin: 1.8rem 0; }
+.featured-projects__card { min-width: 0; overflow: hidden; border: 1px solid $nova-line; border-radius: 8px; background: #fff; display: flex; flex-direction: column; figure { margin: 0; } figcaption { padding: .35rem 1rem; font-size: .6rem; color: $nova-muted; } }
+.featured-projects__image { display: flex; height: 205px; padding: 12px; background: $nova-wash; border-bottom: 0 !important; align-items: center; justify-content: center; img { margin: 0; width: 100%; height: 100%; object-fit: contain; } }
+.featured-projects__heat { gap: 12px; img { width: calc(50% - 6px); } }
+.featured-projects__map { padding: 0; background: #041936; img { object-fit: cover; } }
+.featured-projects__body { padding: 1rem; display: flex; flex-direction: column; flex: 1; h3 { margin: .4rem 0 .7rem; font-size: 1.05rem; color: $nova-navy; } p { font-size: .8rem; line-height: 1.65; } .featured-projects__sponsor { font-size: .62rem; text-transform: uppercase; letter-spacing: .04em; color: $nova-navy; font-weight: 700; margin: 0; } .featured-projects__credit { font-size: .68rem; color: $nova-muted; } }
+.featured-projects__links { display: flex; flex-wrap: wrap; gap: .55rem 1rem; border-top: 1px solid $nova-line; padding-top: .8rem; margin-top: auto; a { font-size: .7rem; font-weight: 700; color: $nova-navy; } }
+.featured-projects__visit { display: flex; flex-wrap: wrap; gap: .8rem 1.5rem; padding: 1rem 0; a { font-size: .8rem; font-weight: 700; } }
+.featured-projects__archive { border-top: 1px solid $nova-line; padding-top: 1rem; margin-top: 1rem; summary { cursor: pointer; color: $nova-navy; font-weight: 700; } }
+@media (max-width: 640px) { .featured-projects__grid { grid-template-columns: 1fr; } .featured-projects__image { height: 220px; } }
