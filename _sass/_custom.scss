@@ -2111,7 +2111,7 @@ $nova-wash: #f4f8fb;
 .ug-cohorts { margin-top: 1rem; }
 .ug-cohort { padding: .8rem 0; border-top: 1px solid $nova-line; }
 .ug-cohort__year { margin: 0 0 .6rem; color: $nova-navy; font-size: .78rem; font-weight: 800; }
-.page__content ul.ug-recognition { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: .7rem 1rem; padding: 0; margin: 0; list-style: none; }
+.team-undergraduate-highlight ul.ug-recognition { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .7rem 1rem; padding: 0; margin: 0; list-style: none; }
 .ug-recognition li { display: flex; align-items: flex-start; gap: .5rem; min-width: 0; margin: 0; padding: 0; }
 .ug-recognition img,.ug-recognition__initials { flex: 0 0 44px; width: 44px; height: 54px; border-radius: 4px; }
 .ug-recognition img { display: block; object-fit: cover; object-position: center 32%; margin: 0; }
@@ -2119,5 +2119,5 @@ $nova-wash: #f4f8fb;
 .ug-recognition h4 { margin: 0 0 .2rem; font-size: .76rem; line-height: 1.3; color: $nova-navy; }
 .ug-recognition p { font-size: .63rem; line-height: 1.45; }
 .ug-recognition p span { font-weight: 700; color: $nova-navy; }
-@media(max-width:640px) { .team-pipeline-grid { grid-template-columns: 1fr; } .page__content ul.ug-recognition { grid-template-columns: repeat(2,minmax(0,1fr)); } }
-@media(max-width:420px) { .page__content ul.ug-recognition { grid-template-columns: 1fr; } }
+@media(max-width:640px) { .team-pipeline-grid { grid-template-columns: 1fr; } .team-undergraduate-highlight ul.ug-recognition { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media(max-width:480px) { .ug-recognition li { flex-direction: column; gap: .4rem; } .ug-recognition img,.ug-recognition__initials { flex-basis: auto; } .ug-recognition h4 { overflow-wrap: anywhere; } }
