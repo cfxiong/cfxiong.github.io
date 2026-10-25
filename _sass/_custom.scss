@@ -2100,3 +2100,6 @@ $nova-wash: #f4f8fb;
 .featured-projects__visit { display: flex; flex-wrap: wrap; gap: .8rem 1.5rem; padding: 1rem 0; a { font-size: .8rem; font-weight: 700; } }
 .featured-projects__archive { border-top: 1px solid $nova-line; padding-top: 1rem; margin-top: 1rem; summary { cursor: pointer; color: $nova-navy; font-weight: 700; } }
 @media (max-width: 640px) { .featured-projects__grid { grid-template-columns: 1fr; } .featured-projects__image { height: 220px; } }
+
+.opportunities-hero__photo figcaption { padding: .7rem .9rem; background: #f4f8fb; color: #55708a; font-size: .68rem; line-height: 1.6; }
+.opportunities-hero__photo figcaption a { color: #002664; text-decoration: underline; }

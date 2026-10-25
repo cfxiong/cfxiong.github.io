@@ -20,7 +20,8 @@ redirect_from:
     </div>
   </div>
   <figure class="opportunities-hero__photo">
-    <img src="/images/teaching/student-research.jpg" alt="Students presenting transportation research">
+    <img src="/images/teaching/student-research.jpg" alt="Student research team presenting the Hurricane Ida mobility study published in Veritas">
+    <figcaption>From student research to publication: the team pictured here coauthored a <a href="https://veritas.journals.villanova.edu/index.php/veritas/article/view/3145/2965">Hurricane Ida mobility study in <em>Veritas</em> (2025)</a>.</figcaption>
   </figure>
 </section>
 
@@ -39,6 +40,7 @@ redirect_from:
       <span>Undergraduate researchers</span>
       <h3>Year-round project opportunities</h3>
       <p>Undergraduates can join through course projects, summer research, and mentored research pathways connected to publishable mobility and transportation questions.</p>
+      <p>Our students have taken their work from analysis and presentation to publication. <a href="https://veritas.journals.villanova.edu/index.php/veritas/article/view/3145/2965">Read their study of Hurricane Ida’s impact on travel across urban, suburban, and rural counties</a>, published in <em>Veritas</em>.</p>
     </article>
     <article>
       <span>Emerging scholars</span>
