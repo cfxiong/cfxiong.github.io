@@ -2121,3 +2121,13 @@ $nova-wash: #f4f8fb;
 .ug-recognition p span { font-weight: 700; color: $nova-navy; }
 @media(max-width:640px) { .team-pipeline-grid { grid-template-columns: 1fr; } .team-undergraduate-highlight ul.ug-recognition { grid-template-columns: repeat(2,minmax(0,1fr)); } }
 @media(max-width:480px) { .ug-recognition li { flex-direction: column; gap: .4rem; } .ug-recognition img,.ug-recognition__initials { flex-basis: auto; } .ug-recognition h4 { overflow-wrap: anywhere; } }
+
+/* Larger portraits for current and 2025–2026 undergraduate researchers. */
+.ug-cohort--featured .ug-recognition li { gap: 1rem; padding: .65rem; border: 1px solid #d8e2eb; border-radius: 7px; background: #f7faff; }
+.ug-cohort--featured .ug-recognition img,.ug-cohort--featured .ug-recognition__initials { width: 108px; height: 132px; flex: 0 0 108px; border-radius: 6px; }
+.ug-cohort--featured .ug-recognition h4 { font-size: .88rem; }
+.ug-cohort--featured .ug-recognition p { font-size: .7rem; }
+.ug-former { border-top: 1px solid #d8e2eb; margin-top: .5rem; padding-top: .8rem; }
+.ug-former summary { cursor: pointer; font-weight: 700; color: #002664; font-size: .78rem; }
+.ug-former .ug-cohort:first-of-type { border-top: 0; }
+@media(max-width:640px) { .ug-cohort--featured .ug-recognition li { flex-direction: column; gap: .6rem; padding: .5rem; } .ug-cohort--featured .ug-recognition img,.ug-cohort--featured .ug-recognition__initials { flex-basis: auto; max-width: 100%; } }
